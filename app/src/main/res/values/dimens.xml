@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_button_width">140dp</dimen>
+    <dimen name="home_button_height">60dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tv_margin_left">16dp</dimen>
+</resources>

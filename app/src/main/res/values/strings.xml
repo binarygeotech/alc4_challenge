@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase 1</string>
+    <string name="home_title">Welcome to</string>
+    <string name="about_alc_button_text">ABOUT ALC</string>
+    <string name="my_profile_button_text">MY PROFILE</string>
+
+    <string name="alc_uri">https://andela.com/alc</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="pp_title">Profile Picture</string>
+    <string name="my_name">Okojie Davis George</string>
+    <string name="tv_fullname_desc">Full Name</string>
+    <string name="tv_track_label">Track:</string>
+    <string name="tv_track_value">Android</string>
+
+    <string name="tv_country_label">Country:</string>
+    <string name="tv_country_value">Nigeria</string>
+
+    <string name="tv_email_label">Email:</string>
+    <string name="tv_email_value">binarygeotech@gmail.com</string>
+
+    <string name="tv_phone_label">Phone Number:</string>
+    <string name="tv_phone_value">2348062561657</string>
+
+    <string name="tv_slack_username_label">Slack Username:</string>
+    <string name="tv_slack_username_value">\@binarygeotech</string>
+    <string name="iv_alc_description">TODO</string>
+</resources>
