@@ -24,4 +24,8 @@
     <string name="tv_slack_username_label">Slack Username:</string>
     <string name="tv_slack_username_value">\@binarygeotech</string>
     <string name="iv_alc_description">TODO</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_alc">ALC</string>
+    <string name="tab_profile">Profile</string>
 </resources>
